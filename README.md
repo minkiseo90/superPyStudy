@@ -1,2 +1,2 @@
 # superPyStudy
-# To be a Python Professional & Tech Meister eventually.
+# The way to Python Specialist and Tech Meister.
